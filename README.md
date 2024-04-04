@@ -1,4 +1,7 @@
 # Project_0
+
+GitHub Repo link: https://github.com/iguasty/Project_0
+
 README Seymour!! Here is my README file for Project 0 for CS162 Spring 2024 course at LBCC.
 
 5 topics that I find interesting in relation to computers:
